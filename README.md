@@ -1,4 +1,4 @@
-# Extracting data with scrapy - Forecasting with scikit-learn  -Flask RESTful
+# Extracting data with scrapy - Forecasting with scikit-learn
 Hazırlayan: Melek GENÇALİ :blush:
 
 
